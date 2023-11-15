@@ -12,8 +12,9 @@ Kynning fyrir Fab Lab Ísland teymið á Git miðvikudag 11. nóv 2023
 
 ## markdown
 
-https://www.markdownguide.org/
-https://dev.to/godcrampy/markdown-cheat-sheet-pdf-infographic-12ko  
+[Upplýsingar um Markdown](https://www.markdownguide.org/)
+
+[Markdown svindlblað](https://dev.to/godcrampy/markdown-cheat-sheet-pdf-infographic-12ko)
 
 ## almen vinnubrögð
 
