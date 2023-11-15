@@ -20,6 +20,11 @@ Kynning fyrir Fab Lab Ísland teymið á Git miðvikudag 11. nóv 2023
 
 ## skjalfesta 
 
+- document before you go
+- Document on the go (sem við erum að gera núna)
+- Document when done ( þetta viljum ekki gera)
+- Not document 
+
 ## Dæmi
 
 - [lampa verkefni](https://github.com/Fab-Lab-Akureyri/Lampi/)
