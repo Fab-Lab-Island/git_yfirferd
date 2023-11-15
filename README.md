@@ -40,3 +40,13 @@ Kynning fyrir Fab Lab Ísland teymið á Git miðvikudag 11. nóv 2023
   - VS code
   - typora (markdown editor)
   - Marktext (markdown editor)
+
+## Það sem við fórum ekki yfir
+
+- samstem
+- námsefni
+- fla.is
+- 
+### spurningar
+
+- verður ekki allt í belg og biður
