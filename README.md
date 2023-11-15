@@ -18,7 +18,7 @@ Kynning fyrir Fab Lab Ísland teymið á Git miðvikudag 11. nóv 2023
 
 ## Dæmi
 
-- lampa verkefni
+- [lampa verkefni](https://github.com/Fab-Lab-Akureyri/Lampi/)
 - bootcamp austurland
 - instructors bootcamp
 - spennugjafi raftækniskóli
