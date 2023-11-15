@@ -46,7 +46,7 @@ Kynning fyrir Fab Lab Ísland teymið á Git miðvikudag 11. nóv 2023
 - samstem
 - námsefni
 - fla.is
-- 
+- FMCU
 ### spurningar
 
 - verður ekki allt í belg og biður
