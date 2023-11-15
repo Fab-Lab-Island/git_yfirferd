@@ -28,9 +28,9 @@ Kynning fyrir Fab Lab Ísland teymið á Git miðvikudag 11. nóv 2023
 ## Dæmi
 
 - [lampa verkefni](https://github.com/Fab-Lab-Akureyri/Lampi/)
-- bootcamp austurland
-- instructors bootcamp
-- spennugjafi raftækniskóli
+- [Bootcamp austurland](https://fab-lab-austurland.github.io/FLI-Boot-Camp-2023/projects/Jesmonite_afsteypun/)
+- instructors bootcamp https://academany.fabcloud.io/fabacademy/2023/instructors-bootcamp/
+- spennugjafi raftækniskóli 
 - [verkefna skipulag](https://github.com/FabLabIsafjordur/master_plan_2023_Example)
 - github how we work
 
