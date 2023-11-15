@@ -50,3 +50,7 @@ Kynning fyrir Fab Lab Ísland teymið á Git miðvikudag 11. nóv 2023
 ### spurningar
 
 - verður ekki allt í belg og biður
+
+### heimaverkefni
+
+- fab lab selfoss síða
