@@ -32,7 +32,7 @@ Kynning fyrir Fab Lab Ísland teymið á Git miðvikudag 11. nóv 2023
 - instructors bootcamp https://academany.fabcloud.io/fabacademy/2023/instructors-bootcamp/
 - spennugjafi raftækniskóli 
 - [verkefna skipulag](https://github.com/FabLabIsafjordur/master_plan_2023_Example)
-- github how we work
+- [github how we work](https://github.com/github/how-engineering-communicates)
 
 ## verkfæri
 
