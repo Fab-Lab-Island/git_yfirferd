@@ -1,5 +1,7 @@
 # Git fyrir Fab Lab Ísland
 
+[Síða frá bootcampinu á Selfossi 2024](https://fab-lab-island.github.io/FLI_Boot_Camp_2024/projects/githubdocumentation/)
+
 Kynning fyrir Fab Lab Ísland teymið á Git miðvikudag 11. nóv 2023
 
 
